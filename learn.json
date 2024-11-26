@@ -1,0 +1,23 @@
+{
+    "slug": "generate-ai-avatar-heygen",
+    "title": {
+        "en": "How to Generate an AI Avatar Using HeyGen: A Step-by-Step Guide",
+        "es": "Cómo Generar un Avatar AI Usando HeyGen: Una Guía Paso a Paso"
+    },
+    "preview": "https://example.com/preview-image.jpg",
+    "technologies": [
+        "HeyGen",
+        "AI Avatars",
+        "Generative AI"
+    ],
+    "difficulty": "beginner",
+    "duration": 2,
+    "projectType": "tutorial",
+    "description": {
+        "en": "A step-by-step guide on how to generate an AI avatar using HeyGen, explore its potential uses, pricing, and ethical considerations.",
+        "es": "Una guía paso a paso sobre cómo generar un avatar AI utilizando HeyGen, explorando sus posibles usos, precios y consideraciones éticas."
+    },
+    "delivery": {
+        "formats": ["no_delivery"]
+    }
+}
