@@ -1,6 +1,5 @@
 ---
 title: "Generar tu propio avatar de IA en HeyGen"
-date: 2024-11-26
 description: "Guía paso a paso para crear tu propio avatar de IA en HeyGen, explorar sus posibles usos y consideraciones éticas."
 tags: ["ia-generativa", "heygen", "avatares-ia"]
 author: "Charly Chacón"

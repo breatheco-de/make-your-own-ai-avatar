@@ -1,6 +1,5 @@
 ---
 title: "How to Generate an AI Avatar Using HeyGen: A Step-by-Step Guide"
-date: 2024-11-26
 description: "A step-by-step guide on how to generate an AI avatar using HeyGen, explore its potential uses, pricing, and ethical considerations."
 tags: ["ia-generativa", "heygen", "avatares-ia"]
 author: "Charly Chacón"
