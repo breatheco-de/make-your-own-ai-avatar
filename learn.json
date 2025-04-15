@@ -12,7 +12,7 @@
     ],
     "difficulty": "beginner",
     "duration": 2,
-    "projectType": "tutorial",
+    "projectType": "project",
     "autoPlay": true,
     "description": {
         "en": "A step-by-step guide on how to generate an AI avatar using HeyGen, explore its potential uses, pricing, and ethical considerations.",
