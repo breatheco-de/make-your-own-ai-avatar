@@ -13,11 +13,15 @@
     "difficulty": "beginner",
     "duration": 2,
     "projectType": "project",
+    "autoPlay": true,
     "description": {
         "en": "A step-by-step guide on how to generate an AI avatar using HeyGen, explore its potential uses, pricing, and ethical considerations.",
         "es": "Una guía paso a paso sobre cómo generar un avatar AI utilizando HeyGen, explorando sus posibles usos, precios y consideraciones éticas."
     },
     "delivery": {
         "formats": ["no_delivery"]
-    }
+    },
+    "telemetry": {
+	  "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=2139"
+	  }
 }
